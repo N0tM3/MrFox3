@@ -15,7 +15,7 @@ import android.widget.TextView;
 
 /**
  * Created by Eduardo on 07/03/2017.
- * asdasdasd
+ * asdasdasdfd
  */
 
 public class Main extends AppCompatActivity {
@@ -27,10 +27,10 @@ public class Main extends AppCompatActivity {
 
         Button boton = (Button) findViewById(R.id.button4);
 
-       // TextView txt = (TextView) findViewById(R.id.txt_titulo);
-       // Typeface externalFont = Typeface.createFromAsset(getAssets(), "fonts/kust");
+        TextView txt = (TextView) findViewById(R.id.txt_titulo);
+        Typeface externalFont = Typeface.createFromAsset(getAssets(), "fonts/fuente.ttf");
 
-       // txt.setTypeface(externalFont);
+        txt.setTypeface(externalFont);
 
         animaciones();
 
