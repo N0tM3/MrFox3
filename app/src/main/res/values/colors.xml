@@ -2,5 +2,10 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="formBackground">#80001233</color>
+    <color name="edtxtBackground">#88000000</color>
+    <color name="buttonBackground">#882C383E</color>
+    <color name="txtColor">#fff</color>
+    <color name="strokeColor">#aaa</color>
 </resources>

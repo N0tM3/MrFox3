@@ -90,4 +90,8 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="titulo">MrFox</string>
+    <string name="email">Email</string>
+    <string name="pswd">pswd</string>
+    <string name="boton">Login</string>
 </resources>
